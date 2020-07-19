@@ -4,4 +4,4 @@
 
 - coffee drinker ☕️
 
-- [RESUME](/resume.md)
+- [RESUME](/kwoncharles/kwoncharles/blob/master/resume.md)
