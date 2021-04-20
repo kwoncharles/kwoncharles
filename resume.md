@@ -6,23 +6,15 @@
    
 ## Work Experiences
 
-- [FINDA](https://www.finda.co.kr?utm_source=github&utm_content=charles_resume&utm_method=resume_content) (2019.02 ~)
+- [Kurly](https://kurly.com) (2021.03 ~ )
+
+- [FINDA](https://www.finda.co.kr?utm_source=github&utm_content=charles_resume&utm_method=resume_content) (2019.02 ~ 2021.03)
 
   **Front-end Engineer**
 
-  - Workding on Korean Fin-tech Web services 🤑
+  - Developed Fintech web services (Webview, Web, Micro Frontend)
   
-    - Personal loan
-    
-    - Personal housing lease guidance
-    
-    - Financial products recommendations
-
-  - Building up Micro Frontend Architecture 🏗
-
-  - Served as Webview on the native mobile applications 📱
-    
-  - **Typescript**, **React**, **Redux(saga)**, Webpack, Emotion, Sass, Next.js, Ant design, **SSR**, Docker
+  - Typescript, React, Next.js, emotion-js, tailwindcss, webpack, docker
 
 ## Translation Works (en-ko)
 
