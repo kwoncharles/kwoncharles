@@ -4,4 +4,4 @@
 
 - coffee drinker ☕️
 
-- [RESUME](/resume.md)
+- [RESUME](https://kwoncheol.notion.site)
